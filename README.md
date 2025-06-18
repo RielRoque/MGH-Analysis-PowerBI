@@ -124,7 +124,7 @@ To uncover key trends in hospital deaths, insurance claim distribution, and pati
 
 ## 7. Recommendations <a name="recommendations"></a> <a href="#toc">[↑]</a>
 
-### 🩺 Clinical Action
+### Clinical Action
 - <p align="justify">Launch <strong>preventive programs</strong> for cardiovascular disease, targeting high-risk senior populations.</p>
 - <p align="justify">Expand <strong>mental health services</strong> to address PTSD and chronic psychological conditions identified in top diagnoses.</p>
 - <p align="justify">Strengthen <strong>oncology care coordination</strong> for patients with recurring or high-cost cancer profiles (e.g., small cell lung cancer).</p>
