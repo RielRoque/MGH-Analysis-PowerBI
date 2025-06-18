@@ -15,7 +15,7 @@ Comprehensive Data Summary on Deaths, Insurance, and Patients - Data Challenge o
 
 ---
 
-## 1. Background <a name="background"></a> 
+## 1. Background <a name="background"></a> <a href="#toc">[↑]</a>
 
 <p align="justify">
 Massachusetts General Hospital (MGH) is one of the leading academic medical centers in the U.S. This project presents a data-driven analysis of mortality, patient demographics, and insurance claims. It aims to support hospital leaders in making operational, clinical, and financial decisions through actionable insights derived from real-world dashboards.
@@ -23,7 +23,7 @@ Massachusetts General Hospital (MGH) is one of the leading academic medical cent
 
 ---
 
-## 2. Objective <a name="objective"></a>
+## 2. Objective <a name="objective"></a> <a href="#toc">[↑]</a>
 
 <p align="justify">
 To uncover key trends in hospital deaths, insurance claim distribution, and patient encounters using integrated dashboard analytics. The project highlights performance gaps, cost drivers, and demographic impacts, with the goal of recommending practical improvements in care delivery, resource utilization, and data accuracy.
@@ -31,7 +31,7 @@ To uncover key trends in hospital deaths, insurance claim distribution, and pati
 
 ---
 
-## 3. Hospital Deaths Report <a name="deaths-report"></a>
+## 3. Hospital Deaths Report <a name="deaths-report"></a> <a href="#toc">[↑]</a>
 
 <div align="center">  
   <img src="https://github.com/RielRoque/MGH-Analysis-PowerBI/blob/main/MGH%20Death%20Dashboard.png?raw=true" width="95%">  
@@ -57,7 +57,7 @@ To uncover key trends in hospital deaths, insurance claim distribution, and pati
 
 ---
 
-## 4. Hospital Insurances Report <a name="insurances-report"></a>
+## 4. Hospital Insurances Report <a name="insurances-report"></a> <a href="#toc">[↑]</a>
 
 <div align="center">  
   <img src="https://github.com/RielRoque/MGH-Analysis-PowerBI/blob/main/MGH%20Insurances%20Dashboard.png?raw=true" width="95%">  
@@ -79,7 +79,7 @@ To uncover key trends in hospital deaths, insurance claim distribution, and pati
 
 ---
 
-## 5. Hospital Patients Report <a name="patients-report"></a>
+## 5. Hospital Patients Report <a name="patients-report"></a> <a href="#toc">[↑]</a>
 
 <div align="center">  
   <img src="https://github.com/RielRoque/MGH-Analysis-PowerBI/blob/main/MGH%20Patients%20Dashboard.png?raw=true" width="95%">  
@@ -106,7 +106,7 @@ To uncover key trends in hospital deaths, insurance claim distribution, and pati
 
 ---
 
-## 6. Key Takeaways <a name="key-takeaways"></a>
+## 6. Key Takeaways <a name="key-takeaways"></a> <a href="#toc">[↑]</a>
 
 - <p align="justify"><strong>Heart disease (CHF)</strong> is the leading cause of death, concentrated among <strong>seniors</strong>, especially <strong>married males</strong>.</p>
 
@@ -122,7 +122,7 @@ To uncover key trends in hospital deaths, insurance claim distribution, and pati
 
 ---
 
-## 7. Recommendations <a name="recommendations"></a>
+## 7. Recommendations <a name="recommendations"></a> <a href="#toc">[↑]</a>
 
 ### 🩺 Clinical Action
 - <p align="justify">Launch <strong>preventive programs</strong> for cardiovascular disease, targeting high-risk senior populations.</p>
