@@ -1,10 +1,10 @@
 # Massachusetts General Hospital Analytics Report  
-> Comprehensive Data Summary on Deaths, Insurance, and Patients  
-> April Data Challenge of DataSense Analytics PH
 
----
+<p align="justify">
+Comprehensive Data Summary on Deaths, Insurance, and Patients - Data Challenge of DataSense PH for the month of April.
+</p>
 
-## Table of Contents  
+### Table of Contents <a name="toc"></a>
 [1. Background](#background)  <br>  
 [2. Objective](#objective)  <br>  
 [3. Hospital Deaths Report](#deaths-report)  <br>  
@@ -15,7 +15,7 @@
 
 ---
 
-## 1. Background <a name="background"></a>
+## 1. Background <a name="background"></a> 
 
 <p align="justify">
 Massachusetts General Hospital (MGH) is one of the leading academic medical centers in the U.S. This project presents a data-driven analysis of mortality, patient demographics, and insurance claims. It aims to support hospital leaders in making operational, clinical, and financial decisions through actionable insights derived from real-world dashboards.
@@ -150,7 +150,7 @@ To uncover key trends in hospital deaths, insurance claim distribution, and pati
 
 ---
 
-### Tools & Technologies Used
+### Tools & Technologies Used <a href="#toc">[↑]</a>
 
 The project was built using Excel for preliminary data quality inspection, Power BI for interactive dashboard creation, and Power Query for efficient data transformation and normalization.
 
