@@ -5,13 +5,17 @@ Comprehensive Data Summary on Deaths, Insurance, and Patients - Data Challenge o
 </p>
 
 ### Table of Contents <a name="toc"></a>
-[1. Background](#background)  <br>  
-[2. Objective](#objective)  <br>  
-[3. Hospital Deaths Report](#deaths-report)  <br>  
-[4. Hospital Insurances Report](#insurances-report)  <br>  
-[5. Hospital Patients Report](#patients-report)  <br>  
-[6. Key Takeaways](#key-takeaways)  <br>  
+
+
+[1. Background](#background)  
+[2. Objective](#objective)  
+[3. Hospital Deaths Report](#deaths-report)  
+[4. Hospital Insurances Report](#insurances-report)  
+[5. Hospital Patients Report](#patients-report) <br>
+[6. Key Takeaways](#key-takeaways)  
 [7. Recommendations](#recommendations)
+
+
 
 ---
 
@@ -152,6 +156,6 @@ To uncover key trends in hospital deaths, insurance claim distribution, and pati
 
 ### Tools & Technologies Used <a href="#toc">[↑]</a>
 
-The project was built using Excel for preliminary data quality inspection, Power BI for interactive dashboard creation, and Power Query for efficient data transformation and normalization.
+The project was built using Excel, Power BI for interactive dashboard creation, and Power Query for efficient data transformation and normalization.
 
 **DAPH April Data Challenge by Riel Roque** 🚀
